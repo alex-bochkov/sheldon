@@ -1,2 +1,2 @@
 # sheldon
-OpenAI API powered Slakc chat bot
+OpenAI API powered Slack chat bot
